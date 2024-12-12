@@ -3,7 +3,7 @@
 
 int main(){
 	
-	char str[15]="le trung chien";
+	char str[13]="chu van ninh";
 	int length=strlen(str);
 	int sokytu=0;
 	char kytu;
